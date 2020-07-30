@@ -19,11 +19,16 @@ Detecting objects in image and video using Computer Vision.
 ## Project Structure
 The hands on project on **Computer Vision - Object Detection with OpenCV and Python** is divided into following tasks:
 
-Task 1: Introduction
-Task 2: Face Detection
-Task 3: Eyes Detection
-Task 4: Face and Eyes Detection
-Task 5: Pedestrians Detection
-Task 6: Cars Moving Detection
-Task 7: Car's Plate Detection
+Task 1: Introduction,
 
+Task 2: Face Detection,
+
+Task 3: Eyes Detection,
+
+Task 4: Face and Eyes Detection,
+
+Task 5: Pedestrians Detection,
+
+Task 6: Cars Moving Detection,
+
+Task 7: Car's Plate Detection.
