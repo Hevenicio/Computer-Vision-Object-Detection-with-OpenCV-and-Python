@@ -35,4 +35,4 @@ Task 6: Cars Moving Detection,
 
 Task 7: Car's Plate Detection.
 
-![Captura de tela de 2020-07-30 16-58-12](https://user-images.githubusercontent.com/65929471/88968939-7d6d7f00-d286-11ea-84fa-aafa9965e72d.png)
+![Captura de tela de 2020-07-30 17-10-09](https://user-images.githubusercontent.com/65929471/88969706-988cbe80-d287-11ea-9f17-d10b512979d3.png)
