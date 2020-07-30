@@ -16,8 +16,7 @@ Detecting objects in image and video using Computer Vision.
 
 [6] - Detect a Car's Plate on Images.
 
-![Captura de tela de 2020-07-30 16-57-22](https://user-images.githubusercontent.com/65929471/88968845-5747df00-d286-11ea-863c-48c80667337c.png)
-
+![Captura de tela de 2020-07-30 17-07-34](https://user-images.githubusercontent.com/65929471/88969417-37fd8180-d287-11ea-823f-c4925096eb05.png)
 
 ## Project Structure
 The hands on project on **Computer Vision - Object Detection with OpenCV and Python** is divided into following tasks:
